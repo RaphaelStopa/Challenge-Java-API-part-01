@@ -1,0 +1,6 @@
+[[overview]]
+= Overview
+
+ Esta documentação está separada por entidades, e serve para apoiar o avaliador do projeto quanto as decisões tomadas pelo programador criador.
+
+[[overview-general]]
