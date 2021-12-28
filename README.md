@@ -1,6 +1,7 @@
 # Projeto de API para desafio GFT Starter em Java de Raphael Mendes Stopa (parte 1).
 
 ## Esta é a API principal. A API de Consumo se encontra no link Abaixo:
+https://github.com/RaphaelStopa/Challenge-Java-API-GFT-part-02
 
 ## Rodando o projeto
 
